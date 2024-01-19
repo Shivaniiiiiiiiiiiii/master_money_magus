@@ -98,6 +98,7 @@
 
 .login-img img{
   border-radius: 20px 0px 0px 20px;
+  height: 100%;
 }
 
 .login-form{
